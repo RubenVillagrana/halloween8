@@ -35,7 +35,7 @@ section h2:first-child:first-letter {
 font-size: 550%;
 }
 header h3 {
-font-size: 250%;
+font-size: 300%;
 }
 h1,
 h2,
@@ -116,7 +116,7 @@ background-color: #f5deb3;
 }
 footer {
 text-align: center;
-font-size: 175%;
+font-size: 15%;
 border-top: 2px solid black;
 padding: 15px;
 background-image: -webkit-linear-gradient(45deg, black 0%, orange 30%, white 100%);
