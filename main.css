@@ -62,7 +62,7 @@ header {
 }
 
 header h2 {
-  font-size: 230%;
+  font-size: 250%;
   color: #000000;
   text-indent: 30px;
   text-shadow: 2px 2px 2px black;
@@ -142,7 +142,7 @@ main {
 }
 
 main h1 {
-  font-size: 150%;
+  font-size: 250%;
 }
 
 main h2 {
