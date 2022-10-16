@@ -21,8 +21,7 @@ a {
   font-weight: bold
 }
 
-/* Style rules for links that apply to all anchor tags (<a> tags) but Not to anchor tags inside aside
-(ie,Not to anchor tags inside sidebar) */
+
 a:link:not(aside ul li a) {
   color: orange
 }
