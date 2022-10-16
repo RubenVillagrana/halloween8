@@ -102,8 +102,7 @@ header img {
   color: white;
 }
 
-/* Formatted the style rule for the link for the page that’s currently displayed (in this case, home)
-to be of orange color text */
+
 #nav_menu a.current {
   /* text or font color of current page (ie, link (anchor <a> tag) with class of "current" in
   horizontal navigation bar*/
@@ -130,8 +129,7 @@ to be of orange color text */
   display: block;
 }
 
-/* Adding styles so that the link that the mouse is hovering over in nested sub menu
-(ie, Nested <ul>'s <a> tag inside <li>s ) in horizontal navigation bar has a gray background color*/
+/* Adding styles so that the link that the mouse is hovering over in nested sub menu*/
 /* Style rules for anchor (<a> tags) elements of Nested sub menu (ie, Nested <ul>'s <a> tags)
 for mouse hover over state*/
 #nav_menu ul ul li a:hover {
